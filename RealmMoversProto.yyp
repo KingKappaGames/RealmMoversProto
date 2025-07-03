@@ -1,0 +1,1297 @@
+{
+  resources: [
+    {
+      id: {
+        name: "__ppf_acHHSL",
+        path: "animcurves/__ppf_acHHSL/__ppf_acHHSL.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_acShockwave",
+        path: "animcurves/__ppf_acShockwave/__ppf_acShockwave.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_acYRGB",
+        path: "animcurves/__ppf_acYRGB/__ppf_acYRGB.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_fntDebugUI",
+        path: "fonts/__ppf_fntDebugUI/__ppf_fntDebugUI.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "PPFX_License",
+        path: "notes/PPFX_License/PPFX_License.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "obj_influenceDraw",
+        path: "objects/obj_influenceDraw/obj_influenceDraw.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "obj_itemPickup",
+        path: "objects/obj_itemPickup/obj_itemPickup.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "obj_manager",
+        path: "objects/obj_manager/obj_manager.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "obj_mapVisual",
+        path: "objects/obj_mapVisual/obj_mapVisual.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "obj_player",
+        path: "objects/obj_player/obj_player.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "obj_realm",
+        path: "objects/obj_realm/obj_realm.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "__ppf_objRainRenderer",
+        path: "objects/__ppf_objRainRenderer/__ppf_objRainRenderer.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_objShockwave",
+        path: "objects/__ppf_objShockwave/__ppf_objShockwave.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Path1",
+        path: "paths/Path1/Path1.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Path10",
+        path: "paths/Path10/Path10.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "Path11",
+        path: "paths/Path11/Path11.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "Path12",
+        path: "paths/Path12/Path12.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "Path13",
+        path: "paths/Path13/Path13.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "Path14",
+        path: "paths/Path14/Path14.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "Path15",
+        path: "paths/Path15/Path15.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "Path2",
+        path: "paths/Path2/Path2.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "Path3",
+        path: "paths/Path3/Path3.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "Path4",
+        path: "paths/Path4/Path4.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "Path5",
+        path: "paths/Path5/Path5.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "Path6",
+        path: "paths/Path6/Path6.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "Path7",
+        path: "paths/Path7/Path7.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "Path8",
+        path: "paths/Path8/Path8.yy",
+      },
+      order: 13,
+    },
+    {
+      id: {
+        name: "Path9",
+        path: "paths/Path9/Path9.yy",
+      },
+      order: 14,
+    },
+    {
+      id: {
+        name: "Room1",
+        path: "rooms/Room1/Room1.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "script_createBoss",
+        path: "scripts/script_createBoss/script_createBoss.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_AreasMasks",
+        path: "scripts/__ppf_AreasMasks/__ppf_AreasMasks.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_BlendAreas",
+        path: "scripts/__ppf_BlendAreas/__ppf_BlendAreas.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_CurvesGenerator",
+        path: "scripts/__ppf_CurvesGenerator/__ppf_CurvesGenerator.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_Data",
+        path: "scripts/__ppf_Data/__ppf_Data.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_Debug",
+        path: "scripts/__ppf_Debug/__ppf_Debug.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_DebugUI",
+        path: "scripts/__ppf_DebugUI/__ppf_DebugUI.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_DisplacemapRenderer",
+        path: "scripts/__ppf_DisplacemapRenderer/__ppf_DisplacemapRenderer.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_Effects",
+        path: "scripts/__ppf_Effects/__ppf_Effects.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_LUTGenerator",
+        path: "scripts/__ppf_LUTGenerator/__ppf_LUTGenerator.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_Macros",
+        path: "scripts/__ppf_Macros/__ppf_Macros.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_PaletteGenerator",
+        path: "scripts/__ppf_PaletteGenerator/__ppf_PaletteGenerator.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_Profile",
+        path: "scripts/__ppf_Profile/__ppf_Profile.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "__ppf_Renderer",
+        path: "scripts/__ppf_Renderer/__ppf_Renderer.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "__ppf_Settings",
+        path: "scripts/__ppf_Settings/__ppf_Settings.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "__ppf_ShockwavesRenderer",
+        path: "scripts/__ppf_ShockwavesRenderer/__ppf_ShockwavesRenderer.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_Utils",
+        path: "scripts/__ppf_Utils/__ppf_Utils.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "shd_influences",
+        path: "shaders/shd_influences/shd_influences.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_shBlendNormals",
+        path: "shaders/__ppf_shBlendNormals/__ppf_shBlendNormals.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_shBlurBox13",
+        path: "shaders/__ppf_shBlurBox13/__ppf_shBlurBox13.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_shBlurBox4",
+        path: "shaders/__ppf_shBlurBox4/__ppf_shBlurBox4.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_shBlurTent9",
+        path: "shaders/__ppf_shBlurTent9/__ppf_shBlurTent9.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_shGenericMask",
+        path: "shaders/__ppf_shGenericMask/__ppf_shGenericMask.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_shGraph",
+        path: "shaders/__ppf_shGraph/__ppf_shGraph.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_shHistogram",
+        path: "shaders/__ppf_shHistogram/__ppf_shHistogram.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "__ppf_shLUTMaker",
+        path: "shaders/__ppf_shLUTMaker/__ppf_shLUTMaker.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderASCII",
+        path: "shaders/__ppf_shRenderASCII/__ppf_shRenderASCII.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderBase",
+        path: "shaders/__ppf_shRenderBase/__ppf_shRenderBase.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderBloom",
+        path: "shaders/__ppf_shRenderBloom/__ppf_shRenderBloom.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderBloomPreFilter",
+        path: "shaders/__ppf_shRenderBloomPreFilter/__ppf_shRenderBloomPreFilter.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderChromAber",
+        path: "shaders/__ppf_shRenderChromAber/__ppf_shRenderChromAber.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderColorGrading",
+        path: "shaders/__ppf_shRenderColorGrading/__ppf_shRenderColorGrading.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderDOFBokeh",
+        path: "shaders/__ppf_shRenderDOFBokeh/__ppf_shRenderDOFBokeh.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderFinal",
+        path: "shaders/__ppf_shRenderFinal/__ppf_shRenderFinal.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderFXAA",
+        path: "shaders/__ppf_shRenderFXAA/__ppf_shRenderFXAA.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderGaussianBlur",
+        path: "shaders/__ppf_shRenderGaussianBlur/__ppf_shRenderGaussianBlur.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderGlitch",
+        path: "shaders/__ppf_shRenderGlitch/__ppf_shRenderGlitch.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderHQ4x",
+        path: "shaders/__ppf_shRenderHQ4x/__ppf_shRenderHQ4x.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderMotionBlur",
+        path: "shaders/__ppf_shRenderMotionBlur/__ppf_shRenderMotionBlur.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderPaletteSwap",
+        path: "shaders/__ppf_shRenderPaletteSwap/__ppf_shRenderPaletteSwap.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderRadialBlur",
+        path: "shaders/__ppf_shRenderRadialBlur/__ppf_shRenderRadialBlur.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderSharpen",
+        path: "shaders/__ppf_shRenderSharpen/__ppf_shRenderSharpen.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderSlowMoLights",
+        path: "shaders/__ppf_shRenderSlowMoLights/__ppf_shRenderSlowMoLights.yy",
+      },
+      order: 13,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderSlowMoThreshold",
+        path: "shaders/__ppf_shRenderSlowMoThreshold/__ppf_shRenderSlowMoThreshold.yy",
+      },
+      order: 14,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderSunshafts",
+        path: "shaders/__ppf_shRenderSunshafts/__ppf_shRenderSunshafts.yy",
+      },
+      order: 15,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderTextureOverlay",
+        path: "shaders/__ppf_shRenderTextureOverlay/__ppf_shRenderTextureOverlay.yy",
+      },
+      order: 16,
+    },
+    {
+      id: {
+        name: "__ppf_shRenderVHS",
+        path: "shaders/__ppf_shRenderVHS/__ppf_shRenderVHS.yy",
+      },
+      order: 17,
+    },
+    {
+      id: {
+        name: "__ppf_shSpriteMask",
+        path: "shaders/__ppf_shSpriteMask/__ppf_shSpriteMask.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "snd_bellTwo",
+        path: "sounds/snd_bellTwo/snd_bellTwo.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "snd_deathPlayer",
+        path: "sounds/snd_deathPlayer/snd_deathPlayer.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "snd_deathSquish",
+        path: "sounds/snd_deathSquish/snd_deathSquish.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "snd_freakyDeathChant",
+        path: "sounds/snd_freakyDeathChant/snd_freakyDeathChant.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "snd_hit",
+        path: "sounds/snd_hit/snd_hit.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "snd_hit2",
+        path: "sounds/snd_hit2/snd_hit2.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "snd_hit3",
+        path: "sounds/snd_hit3/snd_hit3.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "snd_pickup",
+        path: "sounds/snd_pickup/snd_pickup.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "snd_questAttempt",
+        path: "sounds/snd_questAttempt/snd_questAttempt.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "snd_questSucceed",
+        path: "sounds/snd_questSucceed/snd_questSucceed.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "snd_resurrection",
+        path: "sounds/snd_resurrection/snd_resurrection.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "snd_squish",
+        path: "sounds/snd_squish/snd_squish.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "spr_background",
+        path: "sprites/spr_background/spr_background.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "spr_bossCreeper",
+        path: "sprites/spr_bossCreeper/spr_bossCreeper.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "spr_bossGro",
+        path: "sprites/spr_bossGro/spr_bossGro.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "spr_bossNightVegas",
+        path: "sprites/spr_bossNightVegas/spr_bossNightVegas.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "spr_bossPinkMass",
+        path: "sprites/spr_bossPinkMass/spr_bossPinkMass.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "spr_cross",
+        path: "sprites/spr_cross/spr_cross.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "spr_gate",
+        path: "sprites/spr_gate/spr_gate.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "spr_itemSprites",
+        path: "sprites/spr_itemSprites/spr_itemSprites.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "spr_peebob",
+        path: "sprites/spr_peebob/spr_peebob.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "spr_questIcon",
+        path: "sprites/spr_questIcon/spr_questIcon.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "spr_realmIcon",
+        path: "sprites/spr_realmIcon/spr_realmIcon.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "spr_realmOver",
+        path: "sprites/spr_realmOver/spr_realmOver.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "spr_square",
+        path: "sprites/spr_square/spr_square.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "__ppf_sprASCII",
+        path: "sprites/__ppf_sprASCII/__ppf_sprASCII.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprBayer16x16",
+        path: "sprites/__ppf_sprBayer16x16/__ppf_sprBayer16x16.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprBayer2x2",
+        path: "sprites/__ppf_sprBayer2x2/__ppf_sprBayer2x2.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_sprBayer4x4",
+        path: "sprites/__ppf_sprBayer4x4/__ppf_sprBayer4x4.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_sprBayer8x8",
+        path: "sprites/__ppf_sprBayer8x8/__ppf_sprBayer8x8.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "__ppf_sprDebugIcon",
+        path: "sprites/__ppf_sprDebugIcon/__ppf_sprDebugIcon.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "__ppf_sprDebugUICheckbox",
+        path: "sprites/__ppf_sprDebugUICheckbox/__ppf_sprDebugUICheckbox.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "__ppf_sprDebugUIControl",
+        path: "sprites/__ppf_sprDebugUIControl/__ppf_sprDebugUIControl.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "__ppf_sprDirtLens",
+        path: "sprites/__ppf_sprDirtLens/__ppf_sprDirtLens.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprNeutralLUTGrid",
+        path: "sprites/__ppf_sprNeutralLUTGrid/__ppf_sprNeutralLUTGrid.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprNoiseBlue",
+        path: "sprites/__ppf_sprNoiseBlue/__ppf_sprNoiseBlue.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprNoisePerlin",
+        path: "sprites/__ppf_sprNoisePerlin/__ppf_sprNoisePerlin.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_sprNoisePoint",
+        path: "sprites/__ppf_sprNoisePoint/__ppf_sprNoisePoint.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_sprNoiseSimplex",
+        path: "sprites/__ppf_sprNoiseSimplex/__ppf_sprNoiseSimplex.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "__ppf_sprNormal",
+        path: "sprites/__ppf_sprNormal/__ppf_sprNormal.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprPalDefault",
+        path: "sprites/__ppf_sprPalDefault/__ppf_sprPalDefault.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprPixel",
+        path: "sprites/__ppf_sprPixel/__ppf_sprPixel.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_sprPrismLutBW",
+        path: "sprites/__ppf_sprPrismLutBW/__ppf_sprPrismLutBW.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "__ppf_sprPrismLutCP",
+        path: "sprites/__ppf_sprPrismLutCP/__ppf_sprPrismLutCP.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_sprPrismLutCR",
+        path: "sprites/__ppf_sprPrismLutCR/__ppf_sprPrismLutCR.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_sprPrismLutGP",
+        path: "sprites/__ppf_sprPrismLutGP/__ppf_sprPrismLutGP.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "__ppf_sprPrismLutRB",
+        path: "sprites/__ppf_sprPrismLutRB/__ppf_sprPrismLutRB.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "__ppf_sprRainNormal",
+        path: "sprites/__ppf_sprRainNormal/__ppf_sprRainNormal.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "__ppf_sprShockwavesNormal",
+        path: "sprites/__ppf_sprShockwavesNormal/__ppf_sprShockwavesNormal.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "__ppf_sprWaterNormal",
+        path: "sprites/__ppf_sprWaterNormal/__ppf_sprWaterNormal.yy",
+      },
+      order: 3,
+    },
+  ],
+  Options: [
+    {
+      name: "Android",
+      path: "options/android/options_android.yy",
+    },
+    {
+      name: "HTML5",
+      path: "options/html5/options_html5.yy",
+    },
+    {
+      name: "iOS",
+      path: "options/ios/options_ios.yy",
+    },
+    {
+      name: "Linux",
+      path: "options/linux/options_linux.yy",
+    },
+    {
+      name: "macOS",
+      path: "options/mac/options_mac.yy",
+    },
+    {
+      name: "Main",
+      path: "options/main/options_main.yy",
+    },
+    {
+      name: "Opera GX",
+      path: "options/operagx/options_operagx.yy",
+    },
+    {
+      name: "tvOS",
+      path: "options/tvos/options_tvos.yy",
+    },
+    {
+      name: "Windows",
+      path: "options/windows/options_windows.yy",
+    },
+  ],
+  isDnDProject: false,
+  isEcma: false,
+  tutorialPath: "",
+  configs: {
+    name: "Default",
+    children: [],
+  },
+  RoomOrderNodes: [
+    {
+      roomId: {
+        name: "Room1",
+        path: "rooms/Room1/Room1.yy",
+      },
+    },
+  ],
+  Folders: [
+    {
+      folderPath: "folders/PostProcessingFX.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "PostProcessingFX",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Assets",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/AnimCurves.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "AnimCurves",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Core",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Modules",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/Debug.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Debug",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/Debug/Resources.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Resources",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/License.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "License",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Objects.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Objects",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/DisplaceMaps.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "DisplaceMaps",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/Shockwaves.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "Shockwaves",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Paths.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "Paths",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Rooms.yy",
+      order: 3,
+      resourceVersion: "",
+      name: "Rooms",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Scripts.yy",
+      order: 4,
+      resourceVersion: "",
+      name: "Scripts",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/AreasMasks.yy",
+      order: 3,
+      resourceVersion: "",
+      name: "AreasMasks",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/BlendAreas (WIP).yy",
+      order: 4,
+      resourceVersion: "",
+      name: "BlendAreas (WIP)",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/Curves.yy",
+      order: 5,
+      resourceVersion: "",
+      name: "Curves",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Essential.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Essential",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/LUTGenerator.yy",
+      order: 6,
+      resourceVersion: "",
+      name: "LUTGenerator",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Modules/PaletteGenerator.yy",
+      order: 7,
+      resourceVersion: "",
+      name: "PaletteGenerator",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Shaders.yy",
+      order: 5,
+      resourceVersion: "",
+      name: "Shaders",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Shaders.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "Shaders",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Shaders/Misc.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Misc",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Shaders/Downsampling.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Downsampling",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Shaders/Upsampling.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "Upsampling",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Shaders/Render.yy",
+      order: 3,
+      resourceVersion: "",
+      name: "Render",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Shaders/Render/Individual.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Individual",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Core/Shaders/Render/Shared.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Shared",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Sounds.yy",
+      order: 6,
+      resourceVersion: "",
+      name: "Sounds",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Sprites.yy",
+      order: 7,
+      resourceVersion: "",
+      name: "Sprites",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Sprites",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/Misc.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Misc",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/Dithering.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Dithering",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/LensDirt.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "LensDirt",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/LUT.yy",
+      order: 3,
+      resourceVersion: "",
+      name: "LUT",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/LUT/Grid.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Grid",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/Noise.yy",
+      order: 4,
+      resourceVersion: "",
+      name: "Noise",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/Normals.yy",
+      order: 5,
+      resourceVersion: "",
+      name: "Normals",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/Palettes.yy",
+      order: 6,
+      resourceVersion: "",
+      name: "Palettes",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/PostProcessingFX/Assets/Sprites/LUT/Chromatic Aberration.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Chromatic Aberration",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+  ],
+  AudioGroups: [
+    {
+      targets: -1,
+      resourceVersion: "",
+      name: "audiogroup_default",
+      resourceType: "GMAudioGroup",
+    },
+  ],
+  TextureGroups: [
+    {
+      isScaled: true,
+      autocrop: true,
+      border: 2,
+      mipsToGenerate: 0,
+      groupParent: null,
+      targets: -1,
+      resourceVersion: "",
+      name: "Default",
+      resourceType: "GMTextureGroup",
+    },
+  ],
+  IncludedFiles: [],
+  MetaData: {
+    IDEVersion: "",
+  },
+  resourceVersion: "",
+  name: "RealmMoversProto",
+  tags: [],
+  resourceType: "GMProject",
+}

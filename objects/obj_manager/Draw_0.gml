@@ -1,0 +1,1 @@
+draw_surface(getInfluenceSurf(), 0, 0); // draw overlay for influences
