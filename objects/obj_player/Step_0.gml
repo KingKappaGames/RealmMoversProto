@@ -95,8 +95,12 @@ if(keyboard_check_released(ord("I"))) {
 	showProgressionGui = !showProgressionGui;
 }
 
-if(keyboard_check_released(ord("I"))) {
+if(keyboard_check_released(ord("G"))) {
 	godmode = !godmode; // whether you can die
+}
+
+if(keyboard_check_released(ord("P"))) {
+	script_giveInfluence(mouse_x, mouse_y, 1, 500, 0, c_black); // whether you can die
 }
 
 if(keyboard_check_released(ord("R"))) {

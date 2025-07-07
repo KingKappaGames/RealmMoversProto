@@ -16,10 +16,15 @@ connectionDownCriteria = []; // array of array then position to check (true mean
 connectionRightCriteria = [];
 connectionLeftCriteria = [];
 
+deathConnection = [];
+
 questState = false;
 questChance = .1;
 questSprite = spr_questIcon;
 questIndex = 1 + irandom(11);
+
+influenceValue = random(1);
+drawColor = make_color_rgb(influenceValue * 255, influenceValue * 255, influenceValue * 255);
 
 bosses = [script_createBoss(global.bossSpawnIndex)];
 global.bossSpawnIndex++;

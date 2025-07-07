@@ -1,10 +1,10 @@
 image_angle += 5;
 
+draw_circle_color(x, y, 31, drawColor, drawColor, false);
+
 draw_self();
 
 draw_sprite_ext(spr_realmOver, 0, x, y, 1, 1, -image_angle, c_white, .8);
-
-
 
 var _bossCount = array_length(bosses);
 var _directionArray = [90, 40, 140];
@@ -52,5 +52,11 @@ if(connectionLeft != noone) {
 }
 draw_set_alpha(1);
 draw_set_color(c_white);
+
+for(var _i = array_length(deathConnection) - 1; _i >= 0; _i--) {
+	var _connection = deathConnection[_i];
+	
+	draw_arrow(x, y, lerp(x, _connection.x, .12), lerp(y, _connection.y, .12), 5);
+}
 
 //draw_text_transformed_color(x, y - 50, id, .5, .5, 0, c_black, c_black, c_black, c_black, 1);

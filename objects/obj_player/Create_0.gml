@@ -60,7 +60,7 @@ finishPath = function() {
 die = function() {
 	realmGoal = noone;
 	while((realmGoal == realmCurrent) || (realmGoal == noone)) {
-		realmGoal = instance_find(obj_realm, irandom(instance_number(obj_realm) - 1));
+		realmGoal = realmCurrent.deathConnection[irandom(array_length(realmCurrent.deathConnection) - 1)];
 	}
 	global.ppx.SetEffectEnable(FF_INVERT_COLORS, true); // ppx
 	currentlyDying = true;
